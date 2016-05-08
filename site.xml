@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/cupl.sdk_1.0.0.201605081705.jar" id="cupl.sdk" version="1.0.0.201605081705" patch="true">
-      <category name="CUPL SDK"/>
+   <feature url="features/cupl.sdk_1.0.0.201605081709.jar" id="cupl.sdk" version="1.0.0.201605081709" patch="true">
+      <category name="CUPL Category"/>
    </feature>
-   <category-def name="CUPL SDK" label="CUPL SDK"/>
+   <category-def name="CUPL Category" label="CUPL Category"/>
 </site>
