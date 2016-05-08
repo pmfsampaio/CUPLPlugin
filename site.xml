@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/psemb.cupl.sdk_1.0.1.1.jar" id="psemb.cupl.sdk" version="1.0.1.1"/>
+   <feature url="features/psemb.cupl.sdk_1.0.1.1.jar" id="psemb.cupl.sdk" version="1.0.1.1">
+      <category name="CUPL Category"/>
+   </feature>
    <category-def name="CUPL Category" label="CUPL Category"/>
 </site>
